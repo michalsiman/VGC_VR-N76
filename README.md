@@ -1,2 +1,4 @@
 # VGC_VR-N76
 HAM radio handheld tranceiver VGC_VR-N76. Here i will place all about this radio created by me, include a backup of channel list and others.
+
+In backup folder is backup of my channels.csv prepared for the new radio (latest this will be backup of my radio).
