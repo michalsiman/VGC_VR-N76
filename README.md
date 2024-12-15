@@ -1,7 +1,7 @@
 # VGC VR-N76
 HAM radio handheld tranceiver VR-N76. Here i will place all about this radio created by me, include a backup of channel list and others.
 
-What is VGC VR-N76? Product of Verotelecom. Handheld radio for licenced HAM radio operator. Operate in VHF(2m) or UHF(70cm) mode, used FM modulation. What else?
+What is VGC VR-N76? Product of <a href="https://www.verotelecom.com/">Verotelecom</a>. Handheld radio for licenced <a href="https://cs.wikipedia.org/wiki/HAM_Radio">HAM radio</a> operator. Operate in VHF (2m) or UHF (70cm) mode, used FM modulation. What else?
 
 - KISS TNC
 - GPS
